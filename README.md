@@ -1,4 +1,4 @@
-# Ciao, e benvenuto sul mio profilo GitHub! 👋
+# Ciao, benvenuto sul mio profilo GitHub! 👋
 <div>
   <p>
     sono Dorin, un Jr. Full Stack Web Developer 👩‍💻
@@ -12,18 +12,18 @@
 <div>
   <h3>CONTATTI</h3>
   <span>
-    <a style="text-decoration:none" href="https://www.linkedin.com/in/dorin-vieru-27bb072b9/">
-      <img align="center" alt="Dorin Vieru Linkdin" width="30px" src="https://github.com/adityakamath16/adityakamath16/blob/master/images/connect_with_me_images/linkedin.svg" />
+    <a href="https://www.linkedin.com/in/dorin-vieru-27bb072b9/" style="text-decoration: none;";>
+      <img align="center" alt="Dorin Vieru Linkdin" width="35px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" />
     </a>
   </span>
    <span>
-    <a style="text-decoration:none" href="mailto:info@dorinvieru.it">
-      <img  align="center" alt="Dorin Vieru Mail" width="35px" src="https://g-blog.net/wp-content/uploads/2021/11/pii_email_e188285bdb71eb7570eb.png" />
+    <a href="mailto:info@dorinvieru.it" style="text-decoration: none;";>
+      <img align="center" alt="Dorin Vieru Email" width="35px" src="https://img.icons8.com/?size=100&id=pJJmXPomYuPv&format=png&color=000000" />
     </a>
   </span>
 </div>
 
 ## 💼 NEL MIO STACK
 
-Frontend <br/> <br/> [![My Skills](https://skills.thijs.gg/icons?i=html)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=css)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=sass)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=bootstrap)](https://skills.thijs.gg) <br/>[![My Skills](https://skills.thijs.gg/icons?i=javascript)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=vue)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=vite)](https://skills.thijs.gg) <br/><br/> Backend <br/><br/> [![My Skills](https://skills.thijs.gg/icons?i=mysql,php,laravel,git)](https://skills.thijs.gg) <br> [![My Skills](https://skills.thijs.gg/icons?i=dotnet,cs)](https://skills.thijs.gg) | [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DorinVieru&langs_count=7&theme=tokyonight)]() |
+Frontend <br/> <br/> [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap)](https://skillicons.dev) <br/> [![My Skills](https://skillicons.dev/icons?i=js,vue,vite)](https://skillicons.dev) <br/><br/> Backend <br/><br/> [![My Skills](https://skillicons.dev/icons?i=mysql,php,laravel,git)](https://skillicons.dev) <br> [![My Skills](https://skillicons.dev/icons?i=dotnet,cs)](https://skillicons.dev) | [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DorinVieru&langs_count=7&theme=tokyonight)]() |
 | --------- | --------- |
